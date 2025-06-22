@@ -1,6 +1,6 @@
 # OverTheWire Wargames – Cybersecurity Practice Portfolio (LINUX PRACTICE) 
 
-This repository documents my progress and what I have learnt through the [OverTheWire] (Bandit)  
+**This repository documents my progress and what I have learnt through the [OverTheWire] (Bandit)**  
 
 
 - (LEVEL 1->2) - Is a command and it wont let you use "cat" unless it is using the full path (cat ./-)
