@@ -27,7 +27,7 @@ This repository documents my progress and what I have learnt through the [OverTh
 
 - (LEVEL 14->15)  nc localhost 30000 (nc "netcat" opens a connection through a port so its listening,  source:localhost; port:30000)
 
--(LEVEL 15->16) openssl s_client -connect localhost:30001 (openssl for ssl (encryption communication) through localhost in port 30001)	
+- (LEVEL 15->16) openssl s_client -connect localhost:30001 (openssl for ssl (encryption communication) through localhost in port 30001)	
 
 
 Still grinding. More levels coming soon...
